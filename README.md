@@ -5,6 +5,6 @@
 
 >> ## This script uses wget to grab the csv of top companies. 
 
->> ## It is inititally sorted in descending order of the ticker symbol.
+>> ## It is inititally sorted in descending order of the company name.
 
->> ## This script will sort by the second column which has the company names, in alphabetical descending order. 
+>> ## This script will sort by the first column which has the company ticker, in alphabetical descending order. 
